@@ -20,3 +20,4 @@ Purpose: To demonstrate the use of Visual Studio Code, GitHub, and Python interg
 {Make a list of websites that you found helpful in this project}
 * [VS Code and version control](https://code.visualstudio.com/docs/editor/versioncontrol)
 * [VS Code and GitHub](https://code.visualstudio.com/docs/editor/github)
+* [BYU-I Demonstration](https://video.byui.edu/media/t/1_zyyx43ke)
