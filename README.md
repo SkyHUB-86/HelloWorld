@@ -16,4 +16,3 @@ Software demo: [Open YouTube Video](https://youtu.be/VMGsDeMNsFQ)
 # Useful Websites
 * [VS Code and version control](https://code.visualstudio.com/docs/editor/versioncontrol)
 * [VS Code and GitHub](https://code.visualstudio.com/docs/editor/github)
-* [BYU-I Demonstration](https://video.byui.edu/media/t/1_zyyx43ke)
