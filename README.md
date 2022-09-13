@@ -5,7 +5,7 @@ Description: This is a basic hello world python program.
 Purpose: To demonstrate the use of Visual Studio Code, GitHub, and Python intergrated together.
 
 
-Link to my software demo: [Software Demo Video](http://youtube.link.goes.here)
+Software demo: [Open YouTube Video](https://youtu.be/VMGsDeMNsFQ)
 
 # Development Environment
 * Visual Studio Code
@@ -14,8 +14,6 @@ Link to my software demo: [Software Demo Video](http://youtube.link.goes.here)
 
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 * [VS Code and version control](https://code.visualstudio.com/docs/editor/versioncontrol)
 * [VS Code and GitHub](https://code.visualstudio.com/docs/editor/github)
 * [BYU-I Demonstration](https://video.byui.edu/media/t/1_zyyx43ke)
